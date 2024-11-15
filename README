@@ -1,6 +1,5 @@
 VAE IMPLEMENTATION
 
-A simple implementation of Variational AutoEncoder(VAE) models. 
-This repository contains the implementations of following VAE.
+A simple implementation of Variational AutoEncoder(VAE) models. This repository contains the implementations of VAE in a jupyter notebook.
 
 
